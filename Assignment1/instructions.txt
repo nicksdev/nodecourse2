@@ -1,0 +1,7 @@
+1. Spin up a Nodejs server on port 3000
+2. Handle 2 routes. "/" and "/users"
+- Return some greeting text on /
+- Return an Unorder List of dummy users on /users
+3. Add a form to the / page with a "username" input and submit a POST request to "/create-user" on click
+4. Add the "/create-user" route and parse the incoming data and log it to console.
+
