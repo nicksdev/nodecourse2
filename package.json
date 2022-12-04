@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.2"
   },
   "name": "nodecourse2",
   "version": "1.0.0",
@@ -19,5 +19,8 @@
     "url": "https://github.com/nicksdev/nodecourse2/issues"
   },
   "homepage": "https://github.com/nicksdev/nodecourse2#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
